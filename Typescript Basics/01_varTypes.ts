@@ -36,7 +36,7 @@ function func2() {
     return 10;
 }
 
-// in this case the storeValue they store only string type of values
+// in this case the storeValue2 variable they store only 'number' type of values
 
 storeValue2 = func2();
 
